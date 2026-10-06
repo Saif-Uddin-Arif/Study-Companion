@@ -137,26 +137,6 @@ This makes it easy to find exactly what was taught on a particular day.
 
 ---
 
-### ☁️ Backup & Restore
-
-Academic information should not disappear when a phone is lost, damaged, or replaced.
-
-The application is designed around an **offline-first** approach with backup and synchronization capabilities.
-
-Important academic data can include:
-
-- Courses
-- Attendance
-- Class records
-- Notes
-- Attachments
-- Timetable information
-- Other academic information
-
-The goal is to allow students to restore their academic data when moving to another device.
-
----
-
 ## 🏗️ Architecture
 
 The application follows a modern Android architecture designed to remain maintainable as the project grows.
